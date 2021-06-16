@@ -3,7 +3,6 @@
 <!--
 **RudolfWorou/RudolfWorou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on compression technique for images and videos transfert
 - 🎓 I'm currently doing an exchange in Computer Science at ETHZ
