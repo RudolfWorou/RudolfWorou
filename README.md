@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on compression technique for images and videos transfert
-- 🎓 I'm currently doing an exchange in Computer Science at ETHZ
+- 🎓 I'm currently doing my Major in Mathematics and Data Science at CentraleSupélec
 - 🌱 I’m currently learning Mathematics and Data Science 
 - 👯 I’m looking to collaborate on a data science project and a digital company
 - 🤔 I’m looking for help with some machine learning based problems
